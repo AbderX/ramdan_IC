@@ -1,5 +1,5 @@
 # Tiny Tapeout project information (Wokwi project)
-project:
+project: RAMADAN IC bootcamp
   wokwi_id:     458457455207558145       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Ramadan IC example"      # Project title
   author:       "Absygen"      # Your name
