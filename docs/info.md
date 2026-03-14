@@ -9,12 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just an exemple based on a NAND port : 
+| input 1 | input 2 | output |
+|---------|---------|--------|
+| 0       | 0       | 1      |
+| 0       | 1       | 1      |
+| 1       | 0       | 1      |
+| 1       | 1       | 0      |
 
 ## How to test
 
-Explain how to use your project
+Change input 1 and input 2 and observe a change on the output "LED"
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED
